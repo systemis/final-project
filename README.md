@@ -34,7 +34,7 @@ The project was built based on hand-made algorithms and with support of librarie
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) .
 
 ```bash
  pip install -r requirements.txt
