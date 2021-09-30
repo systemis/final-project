@@ -3,7 +3,7 @@
 UK Housing An Analysis is a project to Analyze price of housing by using algorithms at UK based on recorded data in the end of the 20th century and the beginning of the 21st century
 
 
-### Built With
+## Built With
 
 The project was built based on hand-made algorithms and with support of libraries to visualize data and draw chart
 
@@ -11,7 +11,7 @@ The project was built based on hand-made algorithms and with support of librarie
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 
-### Questions
+## Questions
 1. Question 1: Import libraries
 2. Question 2: Write time measure method necessary functions for building
 3. Question 3: Code function for user select file data and import data,  show first 5 rows of data
